@@ -1,5 +1,7 @@
 # nwup
 
+[![Join the chat at https://gitter.im/xqwzts/nwup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xqwzts/nwup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 nwup is an updater for packaged [NW.js/node-webkit](https://github.com/nwjs/nw.js/) applications. It allows the application code to be updated separately from the NW.js runtime, leading to much smaller update file sizes. There's also a [grunt plugin](https://github.com/xqwzts/grunt-nwup) that helps create updates that can be used with nwup.
 
 ##### Note:
